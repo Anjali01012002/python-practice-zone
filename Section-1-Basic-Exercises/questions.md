@@ -12,4 +12,8 @@ This section contains fundamental programming exercises to build a strong founda
 🔗 [Solution](reverse_digits.py)  
 
 3️⃣ Write a program that will give you the sum of 3 digits.  
-🔗 [Solution](sum_three_digits.py) 
+🔗 [Solution](sum_three_digits.py)
+
+4️⃣ Write a program that will reverse a four-digit number. Also, check whether the reverse is the same as the original number.  
+🔗 [Solution](reverse_check.py)  
+ 
