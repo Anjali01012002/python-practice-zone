@@ -16,4 +16,6 @@ This section contains fundamental programming exercises to build a strong founda
 
 4️⃣ Write a program that will reverse a four-digit number. Also, check whether the reverse is the same as the original number.  
 🔗 [Solution](reverse_check.py)  
- 
+
+5️⃣ Write a Python Program to Check if a Number is Positive, Negative or Zero.
+🔗 [Solution](check_number.py)  
