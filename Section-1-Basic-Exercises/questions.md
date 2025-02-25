@@ -10,3 +10,6 @@ This section contains fundamental programming exercises to build a strong founda
 2️⃣ Write a program to extract each digit from an integer in reverse order.  
    - **Example:** If the input is `7536`, the output should be `"6 3 5 7"` (digits separated by space).  
 🔗 [Solution](reverse_digits.py)  
+
+3️⃣ Write a program that will give you the sum of 3 digits.  
+🔗 [Solution](sum_three_digits.py) 
