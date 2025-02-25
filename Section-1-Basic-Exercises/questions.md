@@ -7,6 +7,6 @@ This section contains fundamental programming exercises to build a strong founda
 1️⃣ Write a program to swap two numbers without using a third variable.  
 🔗 [Solution](swap_numbers.py)  
 
-2️⃣ Write a program to extract each digit from an integer in the reverse order. 
-For example, If the given int is 7536, the output shall be “6 3 5 7“, with a space separating the digits. 
+2️⃣ Write a program to extract each digit from an integer in reverse order.  
+   - **Example:** If the input is `7536`, the output should be `"6 3 5 7"` (digits separated by space).  
 🔗 [Solution](reverse_digits.py)  
