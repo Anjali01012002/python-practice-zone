@@ -26,6 +26,8 @@ This section contains fundamental programming exercises to build a strong founda
 7️⃣ Write a program to find the area of a triangle.
 🔗 [Solution](traingle_area.py)  
 
-8️⃣ Write a Python program to swap two variables using third variable.
+8️⃣ Write a program to swap two variables using third variable.
 🔗 [Solution](swap_using_third.py)  
 
+9️⃣ Write a program to generate a random number.
+🔗 [Solution](generate_random.py)  
