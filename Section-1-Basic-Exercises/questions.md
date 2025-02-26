@@ -31,3 +31,6 @@ This section contains fundamental programming exercises to build a strong founda
 
 9️⃣ Write a program to generate a random number.
 🔗 [Solution](generate_random.py)  
+
+🔟Write a program to display calendar.
+🔗 [Solution](display_calendar.py)  
