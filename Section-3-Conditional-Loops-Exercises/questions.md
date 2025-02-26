@@ -8,3 +8,6 @@ This section focuses on essential control flow concepts in programming, includin
 1️⃣ Print the sum of the current number and the previous number Write a program to iterate the first 10 numbers and in each iteration, print the sum of the current and previous number. 
    - **Example:** Expected result: 0,1,3,5,7,9,11,13,15,17.  
 🔗 [Solution](sum_of_current_and_previous.py) 
+
+2️⃣ Write a program to search a given number from a list.
+🔗 [Solution](search_number_in_list.py) 
