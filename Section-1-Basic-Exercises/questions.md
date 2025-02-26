@@ -22,3 +22,6 @@ This section contains fundamental programming exercises to build a strong founda
 
 6️⃣ Write a Program to Check Leap Year.
 🔗 [Solution](check_leap_year.py)  
+
+7️⃣ Write a program to find the area of a triangle.
+🔗 [Solution](traingle_area.py)  
