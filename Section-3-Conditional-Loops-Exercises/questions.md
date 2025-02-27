@@ -12,7 +12,9 @@ This section focuses on essential control flow concepts in programming, includin
 2️⃣ Write a program to search a given number from a list.
 🔗 [Solution](search_number_in_list.py) 
 
-3️⃣ Write a program to check if the given number is a palindrome
-number.
+3️⃣ Write a program to check if the given number is a palindrome number.
    - **Example:** A palindrome number is a number that is same after reverse. For example 545, is the palindrome numbers
 🔗 [Solution](is_palindrome.py) 
+
+4️⃣ Given a two list of numbers, write a program to create a new list such that the new list should contain odd numbers from the first list and even numbers from the second list.
+🔗 [Solution](merge_odd_even.py) 
