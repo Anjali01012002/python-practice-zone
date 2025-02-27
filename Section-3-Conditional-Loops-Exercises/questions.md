@@ -11,3 +11,8 @@ This section focuses on essential control flow concepts in programming, includin
 
 2️⃣ Write a program to search a given number from a list.
 🔗 [Solution](search_number_in_list.py) 
+
+3️⃣ Write a program to check if the given number is a palindrome
+number.
+   - **Example:** A palindrome number is a number that is same after reverse. For example 545, is the palindrome numbers
+🔗 [Solution](is_palindrome.py) 
