@@ -18,3 +18,9 @@ This section focuses on essential control flow concepts in programming, includin
 
 4️⃣ Given a two list of numbers, write a program to create a new list such that the new list should contain odd numbers from the first list and even numbers from the second list.
 🔗 [Solution](merge_odd_even.py) 
+
+5️⃣ Write a Program to Check Prime Number.
+🔗 [Solution](is_prime_number.py)
+
+6️⃣ rite a Python Program to Print all Prime Numbers in an Interval of given range.
+🔗 [Solution](prime_number_in_range.py)
