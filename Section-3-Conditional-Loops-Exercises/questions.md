@@ -24,3 +24,6 @@ This section focuses on essential control flow concepts in programming, includin
 
 6️⃣ rite a Python Program to Print all Prime Numbers in an Interval of given range.
 🔗 [Solution](prime_number_in_range.py)
+
+7️⃣ Write a Program to Find the Factorial of a Number.
+🔗 [Solution](find_factorial.py)
